@@ -33,3 +33,6 @@ void loop()
   VerticalServo.write(VerticalServoPosition);       
   delay(20);    
 }
+
+// to view an image of the circuit design go to the following link:
+// https://www.tinkercad.com/things/lQk9Ut7yoke-joysticklaser
